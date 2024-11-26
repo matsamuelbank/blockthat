@@ -19,8 +19,8 @@ Cette application React permet aux utilisateurs d'ajouter des URL suspectes à u
 
 1. **Cloner le dépôt :**
    ```bash
-   git clone https://github.com/ton-nom-d-utilisateur/ton-repo.git
-   cd ton-repo
+   git clone  https://github.com/matsamuelbank/blockthat.git
+   cd blockthat
 
 2. **Installation de MongoDb et MongoDb compass**
     - aller sur le site officielle de MongoDb et télécharger  MongoDb et MongoDb Comapass(pour avoir une interface graphique des bases de données), tout cela en tenant compte de votre système d'exploitation
