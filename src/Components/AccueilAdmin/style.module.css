@@ -1,0 +1,21 @@
+body{
+    background-color: #fff;
+}
+.container{
+    display: flex;
+}
+.left{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    background-color:rgb(220, 245, 239);
+    height: 100vh;
+    padding: 20px;
+}
+
+.right{
+    background-color: white;
+    width: 80%;
+    gap: 20px;
+    padding: 20px;
+}

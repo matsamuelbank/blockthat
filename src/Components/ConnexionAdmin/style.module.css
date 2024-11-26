@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(220, 245, 239);
+}
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.form{
+    background-color:rgb(220, 245, 233);
+    border: 2px solid gray;
+    border-radius: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.input{
+    border-radius: 20px;
+}
